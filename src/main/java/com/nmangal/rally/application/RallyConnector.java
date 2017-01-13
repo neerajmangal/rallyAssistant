@@ -16,7 +16,7 @@ public class RallyConnector {
 
 	private final static String RallyUrl = "https://rally1.rallydev.com";
 	private static RallyRestApi rallyRestApiConnector = null;
-	private static final String RALLY_ACCESS_API_KEY="_F8R9hayAS8m8nar3ybxVNmdmVTNSEMLmWbqrmgLiM";
+	private static final String RALLY_ACCESS_API_KEY="_Er0agvVmTtWspaFPJVmN9wzJqQRS5URxrMc0mOHTtkI";
 
 	/**
 	 * 
